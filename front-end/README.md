@@ -22,7 +22,7 @@ See the `figures/` folder for sample interactive figures viewable in a web brows
 - `chart_*.html`: line charts displaying the mean and standard deviation of each climate parameter over the selected time window (in this case, over one month). Values are averaged over the entire spatial region displayed. 
 - `map_*.html`: map views of the average climate parameter 
 
-One of each figure listed above exists for the following parameters:
+Each figure listed above exists for the following parameters:
 - `prate`: precipitation rate
 - `sde`: snow depth
 - `t`: air temperature
