@@ -1,0 +1,13 @@
+name: geos505-dashboard
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - hvplot
+  - folium
+  - xarray
+  - h5netcdf
+  - netcdf4
+  - scipy
+  - rioxarray
