@@ -20,7 +20,7 @@ Requirements for running notebooks are listed in the `environment.yml` file. Thi
 See the `figures/` folder for sample interactive figures viewable in a web browser. To generate the figures, run the `make_figures.ipynb` notebook. The figures include:
 
 - `chart_*.html`: line charts displaying the mean and standard deviation of each climate parameter over the selected time window (in this case, over one month). Values are averaged over the entire spatial region displayed. 
-- `map_*.html`: map views of the average climate parameter 
+- `map_*.html`: map views of the average climate parameter over the entire time period (in this case, over one month)
 
 Each figure listed above exists for the following parameters:
 - `prate`: precipitation rate
